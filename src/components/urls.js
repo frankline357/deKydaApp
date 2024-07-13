@@ -1,3 +1,3 @@
-const BASE_URL = "https://server.myserverapi.site";
+const BASE_URL = "https://api-server-theta-cyan.vercel.app";
 
 export default BASE_URL;
