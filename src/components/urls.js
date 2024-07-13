@@ -1,3 +1,3 @@
-const BASE_URL = "http://server.myserverapi.site";
+const BASE_URL = "https://server.myserverapi.site/";
 
 export default BASE_URL;
